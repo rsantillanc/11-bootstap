@@ -1,0 +1,30 @@
+:root {
+  --main-color: brown;
+}
+
+.row div {
+  margin: 0.25rem;
+}
+
+.col {
+  background: var(--main-color);
+}
+.col-sm {
+  background: gray;
+}
+
+.col-md {
+  background: rgb(100, 99, 99);
+}
+
+.col-lg {
+  background: rgb(77, 76, 76);
+}
+
+.col-xl {
+  background: rgb(59, 59, 59);
+}
+
+.col-xxl {
+  background: rgb(59, 59, 59);
+}
